@@ -1,0 +1,22 @@
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\bin\Debug\ParallelImageScalerApp.exe.config
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\bin\Debug\ParallelImageScalerApp.exe
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\bin\Debug\ParallelImageScalerApp.pdb
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\obj\Debug\ImageResizerApp.csproj.AssemblyReference.cache
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\obj\Debug\ImageResizerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\obj\Debug\ParallelImageScalerApp.Properties.Resources.resources
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\obj\Debug\ImageResizerApp.csproj.GenerateResource.cache
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\obj\Debug\ImageResizerApp.csproj.CoreCompileInputs.cache
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\obj\Debug\ParallelImageScalerApp.exe
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\obj\Debug\ParallelImageScalerApp.pdb
+C:\Users\ChristianTashev\Desktop\ParallelAndSequentialImageDownsizer-main\ParallelICustomImageScaler\ParallelImageScalerApp\obj\Debug\ImageResizerApp.ImageResizerForm.resources
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\bin\Debug\ImageResizerApp.exe.config
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\bin\Debug\ImageResizerApp.exe
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\bin\Debug\ImageResizerApp.pdb
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\obj\Debug\ImageResizerApp.csproj.AssemblyReference.cache
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\obj\Debug\ImageResizerApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\obj\Debug\ImageResizerApp.ImageResizerForm.resources
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\obj\Debug\ImageResizerApp.Properties.Resources.resources
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\obj\Debug\ImageResizerApp.csproj.GenerateResource.cache
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\obj\Debug\ImageResizerApp.csproj.CoreCompileInputs.cache
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\obj\Debug\ImageResizerApp.exe
+C:\Users\ChristianTashev\Desktop\ImageResizerApp - Copy\ImageResizerApp\ImageResizerApp\obj\Debug\ImageResizerApp.pdb
